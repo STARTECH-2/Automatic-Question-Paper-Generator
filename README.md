@@ -1,1 +1,1 @@
-# Automatic Question Paper Framer
+# Automatic Question Paper Generator
